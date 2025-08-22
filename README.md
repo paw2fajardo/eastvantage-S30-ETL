@@ -1,4 +1,4 @@
-## Example SQLite Query
+## SQLite Query
 
 ```sql
 with target_cust_sales as (select
